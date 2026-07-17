@@ -64,4 +64,5 @@ export default function FloatingWhatsApp() {
       </motion.a>
     </motion.div>
   );
+  
 }
